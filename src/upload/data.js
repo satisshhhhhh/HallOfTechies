@@ -1,5 +1,16 @@
 const data = [
   {
+    name: "Satish Panchal",
+    role: "Web Developer",
+    image: "https://avatars.githubusercontent.com/u/58567211?s=60&v=4",
+    skills: ["html", "css", "js", "node", "python", "java"],
+    link: [
+      "https://github.com/satisshhhhhh",
+      "https://www.linkedin.com/in/satish-panchal-26221b203/",
+      "https://twitter.com",
+    ],
+  },
+  {
     name: "Akash Khandelwal",
     role: "MERN Stack Developer",
     image: "https://avatars.githubusercontent.com/u/56211500?v=4",
